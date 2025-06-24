@@ -111,3 +111,39 @@ Requirement Analysis involves a series of structured activities to ensure that t
 ---
 
 These activities are often iterative and collaborative, helping teams deliver software that truly meets user expectations and business objectives.
+
+---
+
+## 🧾 Types of Requirements
+
+In software development, requirements are generally categorized into two types: **Functional** and **Non-functional**. Both are essential to ensure that the system behaves correctly and meets user expectations.
+
+---
+
+### ✅ Functional Requirements
+
+**Definition**: Functional requirements define **what the system should do**. They describe the specific behaviors, functions, and features the system must support.
+
+**Examples for the Booking Management Project**:
+- A guest must be able to **search for available properties** based on location and dates.
+- The system should **prevent double bookings** by validating date overlaps.
+- A user must be able to **create a booking request** and **receive a confirmation notification**.
+- The host should be able to **view and manage booking requests** for their listed properties.
+- Guests should be able to **cancel bookings** based on the host’s cancellation policy.
+
+---
+
+### 🛡️ Non-functional Requirements
+
+**Definition**: Non-functional requirements specify **how the system should behave**. They focus on performance, usability, scalability, security, and other quality attributes.
+
+**Examples for the Booking Management Project**:
+- The booking confirmation response time should be **under 2 seconds**.
+- The system should be able to **handle up to 10,000 concurrent booking requests**.
+- All user data must be **encrypted at rest and in transit**.
+- The platform should have **99.9% uptime** to ensure availability for global users.
+- The booking interface should be **mobile-responsive and accessible** across different devices.
+
+---
+
+Understanding and documenting both types of requirements ensures that the system is **both functional and user-friendly**, supporting a robust and reliable user experience.
