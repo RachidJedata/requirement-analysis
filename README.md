@@ -79,3 +79,35 @@ All design decisions, system architecture, and testing procedures stem from well
 
 By investing time in requirement analysis, software teams can ensure they build the right product — efficiently, effectively, and with fewer surprises during the development process.
 
+---
+
+
+## 🧩 Key Activities in Requirement Analysis
+
+Requirement Analysis involves a series of structured activities to ensure that the final product aligns with stakeholder needs and business goals. Below are the five key activities in this process:
+
+---
+
+- **📥 Requirement Gathering**
+  - Collect raw requirements from stakeholders, users, clients, and subject matter experts.
+  - Techniques include interviews, questionnaires, surveys, and market analysis.
+
+- **🔍 Requirement Elicitation**
+  - Actively explore and clarify requirements by engaging stakeholders.
+  - Uses methods such as brainstorming, workshops, observation, and use case analysis to uncover hidden or implicit needs.
+
+- **📝 Requirement Documentation**
+  - Record the gathered and elicited requirements in a clear and structured format.
+  - Common outputs include Software Requirement Specifications (SRS), user stories, and functional requirement documents.
+
+- **📊 Requirement Analysis and Modeling**
+  - Analyze the documented requirements to identify gaps, conflicts, or ambiguities.
+  - Create models and diagrams (e.g., use case diagrams, data flow diagrams) to visualize system behavior and interactions.
+
+- **✅ Requirement Validation**
+  - Confirm that the documented requirements are complete, consistent, and feasible.
+  - Includes reviews, walkthroughs, and validation meetings with stakeholders to ensure approval before development begins.
+
+---
+
+These activities are often iterative and collaborative, helping teams deliver software that truly meets user expectations and business objectives.
