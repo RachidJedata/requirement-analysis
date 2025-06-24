@@ -13,3 +13,38 @@ The objective of this repository is to explore and demonstrate best practices in
 This repository is part of the ALX Software Engineering program and aims to strengthen your ability to approach real-world project planning and analysis with clarity and precision.
 
 ---
+
+## 📌 What is Requirement Analysis?
+
+**Requirement Analysis** is the process of identifying, gathering, and documenting the needs and expectations of stakeholders for a new or modified software system. It is one of the most critical phases of the **Software Development Life Cycle (SDLC)** because it lays the foundation for all future development activities.
+
+### 🎯 Key Objectives of Requirement Analysis:
+- Understand the business needs and goals.
+- Define the scope of the software project clearly.
+- Identify the system’s functional and non-functional requirements.
+- Detect potential conflicts or inconsistencies early.
+- Translate user expectations into actionable technical specifications.
+
+---
+
+### 🧠 Importance in the Software Development Lifecycle (SDLC):
+
+| Benefit | Description |
+|--------|-------------|
+| ✅ **Clarity & Alignment** | Ensures developers and stakeholders have a shared understanding of what the system should do. |
+| 💸 **Cost Efficiency** | Prevents costly revisions later by uncovering problems early in the project. |
+| 🧪 **Testability** | Defines clear requirements that can be used to develop acceptance criteria and test cases. |
+| 🛠️ **Project Planning** | Provides the necessary input for estimating timelines, effort, and resources. |
+| 📈 **Project Success** | Reduces ambiguity and scope creep, increasing the chances of successful and timely delivery. |
+
+---
+
+### 🔍 Types of Requirements:
+- **Functional Requirements**: What the system should do (e.g., user login, property booking).
+- **Non-Functional Requirements**: How the system should perform (e.g., performance, security, usability).
+- **Business Requirements**: High-level goals of the organization or product.
+- **Technical Requirements**: Platform, tools, and technical constraints.
+
+---
+
+By conducting thorough requirement analysis, teams can ensure that software products are aligned with user needs, feasible to implement, and maintainable over time.
