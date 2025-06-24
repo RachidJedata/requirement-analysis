@@ -170,3 +170,38 @@ They are part of the **Unified Modeling Language (UML)** and are especially usef
 
 Use Case Diagrams are particularly effective in early stages of development, such as for the **Airbnb Clone** project, where understanding **who does what** (e.g., guests booking properties, hosts managing listings) is critical for building accurate system requirements.
 ![ALX Booking Use Case Diagram](/alx-booking-uc.png)
+
+
+---
+
+## ✅ Acceptance Criteria
+
+**Acceptance Criteria** are a set of predefined conditions that a software product must satisfy to be accepted by stakeholders or end users. These criteria help ensure that each feature or user story meets the functional expectations and delivers the intended value.
+
+They are an essential part of **Requirement Analysis** because they:
+
+- Define **what "done" means** for a feature.
+- Improve **clarity and shared understanding** among developers, testers, and stakeholders.
+- Serve as the basis for **test cases and quality assurance**.
+- Help identify when a requirement is **complete, correct, and testable**.
+
+---
+
+### 💡 Example: Checkout Feature (Booking Management System)
+
+**Feature**: Guest Checkout
+
+**Acceptance Criteria**:
+
+1. ✅ The system must allow a logged-in guest to proceed to checkout after selecting valid booking dates.
+2. ✅ The checkout page must display a summary of the booking (property, dates, total cost).
+3. ✅ The guest must be able to enter payment details and submit the form securely.
+4. ✅ The system must validate the availability of the property before processing the payment.
+5. ✅ Upon successful payment, a confirmation email should be sent to the guest and host.
+6. ✅ If the payment fails, the system should display an error message and no booking should be saved.
+7. ✅ The booking status should be marked as "confirmed" and saved in the database.
+
+---
+
+Well-defined **acceptance criteria** help ensure that features are developed with precision and are easily verifiable through testing and stakeholder review.
+
