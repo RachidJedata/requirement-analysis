@@ -169,4 +169,4 @@ They are part of the **Unified Modeling Language (UML)** and are especially usef
 ---
 
 Use Case Diagrams are particularly effective in early stages of development, such as for the **Airbnb Clone** project, where understanding **who does what** (e.g., guests booking properties, hosts managing listings) is critical for building accurate system requirements.
-[alx-booking-uc.png]
+![ALX Booking Use Case Diagram](/alx-booking-uc.png)
