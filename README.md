@@ -147,3 +147,26 @@ In software development, requirements are generally categorized into two types: 
 ---
 
 Understanding and documenting both types of requirements ensures that the system is **both functional and user-friendly**, supporting a robust and reliable user experience.
+
+---
+
+## 🧩 Use Case Diagrams
+
+**Use Case Diagrams** are a type of behavioral diagram used in software engineering to represent the interactions between users (actors) and the system. These diagrams visually map out the system's functionality from the user's perspective, showing what the system does and who interacts with it.
+
+They are part of the **Unified Modeling Language (UML)** and are especially useful during the requirement analysis phase.
+
+---
+
+### 📈 Benefits of Use Case Diagrams
+
+- **User-Centric Perspective**: Helps developers and stakeholders understand how users will interact with the system.
+- **Scope Clarification**: Defines what features are in-scope and what is out-of-scope.
+- **Improved Communication**: Serves as a communication bridge between business users and technical teams.
+- **Requirement Validation**: Ensures all user goals are addressed before design and development begin.
+- **Visual Simplicity**: Offers a clear and easy-to-understand visual representation of complex interactions.
+
+---
+
+Use Case Diagrams are particularly effective in early stages of development, such as for the **Airbnb Clone** project, where understanding **who does what** (e.g., guests booking properties, hosts managing listings) is critical for building accurate system requirements.
+[alx-booking-uc.png]
